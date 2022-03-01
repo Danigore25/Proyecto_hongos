@@ -40,7 +40,7 @@ EXAMPLES
     evaluación del modelo, hacemos el reporte de clasificación y la matriz de confusión para analizar a nuestro modelo.
     
 GITHUB LINK
-    https://github.com/Danigore25/Proyecto_hongos/Hongos_clases.py
+    https://github.com/Danigore25/Proyecto_hongos/blob/main/Hongos_clases.py
 '''
 
 
